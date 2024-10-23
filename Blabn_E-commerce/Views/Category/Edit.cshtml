@@ -1,0 +1,17 @@
+﻿@model Blabn_E_commerce.Models.Category
+
+<h2>Edit Category</h2>
+
+<form asp-action="Edit" method="post">
+    <!-- Hidden field to hold the CategoryId -->
+    <input type="hidden" asp-for="CategoryId" />
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <input type="submit" value="Edit" class="btn btn-primary" />
+    </div>
+</form>

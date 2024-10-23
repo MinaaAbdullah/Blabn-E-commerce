@@ -1,0 +1,14 @@
+﻿@model Blabn_E_commerce.Models.Product
+
+@{
+    ViewData["Title"] = "Add Product to Cart";
+}
+
+<h2>@Model.Name</h2>
+<form asp-controller="Cart" asp-action="AddToCart" method="post">
+    
+    <input type="hidden" name="productId" value="@Model.ProductId" />
+    <input type="number" name="quantity" min="1" value="1" required />
+    <button type="submit">Add to Cart</button>
+</form>
+

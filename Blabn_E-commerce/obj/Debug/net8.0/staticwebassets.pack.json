@@ -1,0 +1,277 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blabn_E-commerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blabn_E-commerce.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\images\\2ASHTATO.jfif",
+      "PackagePath": "staticwebassets\\images\\2ASHTATO.jfif"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\images\\2ASHTATO_3f67713a-2dab-4d8c-9611-22f10403e8d3.jfif",
+      "PackagePath": "staticwebassets\\images\\2ASHTATO_3f67713a-2dab-4d8c-9611-22f10403e8d3.jfif"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\images\\2ASHTATO_f9c73c1e-5b70-447a-88e9-da5bbcab0c0f.jfif",
+      "PackagePath": "staticwebassets\\images\\2ASHTATO_f9c73c1e-5b70-447a-88e9-da5bbcab0c0f.jfif"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Rowad Masr\\Project\\FINAL\\Blabn-E-Commerce-final-main\\Blabn_E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blabn_E-commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blabn_E-commerce.props",
+      "PackagePath": "build\\Blabn_E-commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blabn_E-commerce.props",
+      "PackagePath": "buildMultiTargeting\\Blabn_E-commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blabn_E-commerce.props",
+      "PackagePath": "buildTransitive\\Blabn_E-commerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

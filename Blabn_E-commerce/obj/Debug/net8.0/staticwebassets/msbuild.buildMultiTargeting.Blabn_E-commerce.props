@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blabn_E-commerce.props" />
+</Project>

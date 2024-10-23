@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Blabn_E_commerce.Models.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2>Product List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Image</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>@product.Price.ToString("C")</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.Image))
+                    {
+                        <img src="@Url.Content(product.Image)" alt="@product.Name" width="100" height="100" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+                <td>
+                    <!-- Add to Cart Button -->
+                    <form asp-action="AddToCart" asp-controller="Cart" method="post" style="display:inline;">
+                        <input type="hidden" name="userId" value="@ViewBag.UserId" /> <!-- Ensure you have the userId -->
+                        <input type="hidden" name="productId" value="@product.ProductId" />
+                        <input type="number" name="quantity" min="1" value="1" required />
+                        <button type="submit" class="btn btn-success">Add to Cart</button>
+                    </form>
+                    @* <!-- Remove from Cart Button -->
+                    <form asp-action="RemoveFromCart" asp-controller="Cart" asp-route-id="@product.ProductId" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to remove this product from your cart?');">Remove from Cart</button>
+                    </form> *@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

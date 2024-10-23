@@ -1,0 +1,70 @@
+﻿@model List<User>
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+@* using System.ComponentModel.DataAnnotations;
+
+namespace Blabn_E_commerce.Models
+{
+    public class User
+    {
+        public int UserId { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+        public string Address { get; set; }
+        public string PhoneNumber { get; set; }
+        public bool IsAdmin { get; set; }
+
+ *@
+<h1>All user</h1>
+<table class="table table-bordered table-hover" style="color:black">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Password</th>
+        <th>Address</th>
+        <th>Phone Number</th>
+        <th>Admin</th>
+    </tr>
+
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.UserId</td>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Password</td>
+            <td>@item.Address</td>
+            <td>@item.PhoneNumber</td>
+            <td>@item.IsAdmin</td>
+        </tr>
+    }
+</table>
+<div class="container text-center">
+    <ul class="list-inline mb-0">
+        <li class="list-inline-item">
+            <a class="btn btn-outline-primary me-2" asp-area="" asp-controller="Product" asp-action="Create">Create Product</a>
+        </li>
+        <li class="list-inline-item">
+            <a class="btn btn-outline-secondary" asp-area="" asp-controller="Product" asp-action="ShowProducts">All Products</a>
+        </li>
+    </ul>
+    <br>
+    <ul class="list-inline mb-0">
+        <li class="list-inline-item">
+            <a class="btn btn-outline-primary me-2" asp-area="" asp-controller="Category" asp-action="Create">Create Category</a>
+        </li>
+        <li class="list-inline-item">
+            <a class="btn btn-outline-secondary" asp-area="" asp-controller="Category" asp-action="Index">All Categories</a>
+        </li>
+    </ul>
+    <br>
+    <ul class="list-inline mb-0">
+        <li class="list-inline-item">
+            <a class="btn btn-outline-primary me-2" asp-area="" asp-controller="Order" asp-action="Index">All Orders</a>
+        </li>
+       </ul>
+</div>
+

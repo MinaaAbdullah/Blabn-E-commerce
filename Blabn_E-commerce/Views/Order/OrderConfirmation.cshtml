@@ -1,0 +1,17 @@
+﻿@model Blabn_E_commerce.Models.Order // Ensure the correct namespace
+
+<h2>Order Confirmation</h2>
+
+@if (Model != null)
+{
+    <p>Thank you for your order!</p>
+    <p>Order ID: @Model.OrderId</p>
+    <p>Order Date: @Model.OrderDate</p>
+    <p>Total Amount: @Model.TotalAmount</p>
+
+
+}
+else
+{
+    <p>Order not found.</p>
+}

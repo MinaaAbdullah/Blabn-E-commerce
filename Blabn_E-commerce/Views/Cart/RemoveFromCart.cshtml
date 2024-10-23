@@ -1,0 +1,18 @@
+﻿@model Blabn_E_commerce.ViewModels.CartItemViewModel
+
+@{
+    ViewData["Title"] = "Remove From Cart";
+}
+
+<h2>Remove Item From Cart</h2>
+
+<p>Are you sure you want to remove <strong>@Model.ProductName</strong> from the cart?</p>
+
+<form asp-action="RemoveFromCart" method="post">
+    <input type="hidden" name="cartId" value="@Model.ProductId" />
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-danger">Remove</button>
+        <a asp-action="ShowCart" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>
